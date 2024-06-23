@@ -1,0 +1,11 @@
+C:\Users\DAIC\Desktop\Clean_Architecture_SampleTrain\DomainLayer\bin\Debug\net8.0\DomainLayer.deps.json
+C:\Users\DAIC\Desktop\Clean_Architecture_SampleTrain\DomainLayer\bin\Debug\net8.0\DomainLayer.dll
+C:\Users\DAIC\Desktop\Clean_Architecture_SampleTrain\DomainLayer\bin\Debug\net8.0\DomainLayer.pdb
+C:\Users\DAIC\Desktop\Clean_Architecture_SampleTrain\DomainLayer\obj\Debug\net8.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DAIC\Desktop\Clean_Architecture_SampleTrain\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfoInputs.cache
+C:\Users\DAIC\Desktop\Clean_Architecture_SampleTrain\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfo.cs
+C:\Users\DAIC\Desktop\Clean_Architecture_SampleTrain\DomainLayer\obj\Debug\net8.0\DomainLayer.csproj.CoreCompileInputs.cache
+C:\Users\DAIC\Desktop\Clean_Architecture_SampleTrain\DomainLayer\obj\Debug\net8.0\DomainLayer.dll
+C:\Users\DAIC\Desktop\Clean_Architecture_SampleTrain\DomainLayer\obj\Debug\net8.0\refint\DomainLayer.dll
+C:\Users\DAIC\Desktop\Clean_Architecture_SampleTrain\DomainLayer\obj\Debug\net8.0\DomainLayer.pdb
+C:\Users\DAIC\Desktop\Clean_Architecture_SampleTrain\DomainLayer\obj\Debug\net8.0\ref\DomainLayer.dll
